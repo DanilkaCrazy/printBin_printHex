@@ -17,7 +17,7 @@
 
 ![Screenshot_4](https://user-images.githubusercontent.com/95550202/232711830-d400b227-0653-4d73-a0ae-7d1930ab8db4.png)
 
-Примеры использования функций:
+### Примеры использования функций:
 
 ![Screenshot_5](https://user-images.githubusercontent.com/95550202/232711954-7634ab46-00df-4040-9aea-b476f8c71d6c.png)
 
