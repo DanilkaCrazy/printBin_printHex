@@ -8,6 +8,7 @@
 
 ### Код:
 Объявление namespace, для облегчения написания кода (чтобы не писать каждый раз std::<<...)
+
 ![Screenshot_1](https://user-images.githubusercontent.com/95550202/232711312-f2cf414f-38d0-4437-b6e1-583ddd863d0c.png)
 
 ![Screenshot_2](https://user-images.githubusercontent.com/95550202/232711741-a4a56a2c-8555-4074-8e33-b378620be07e.png)
